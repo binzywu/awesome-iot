@@ -1,4 +1,5 @@
-awesome-iot
-===========
+# Awesome IoT
 
-awesome-iot
+### Contributing
+
+### Contents
