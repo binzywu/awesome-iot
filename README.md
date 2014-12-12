@@ -21,20 +21,18 @@
 - [MQTT](http://mqtt.org/)
 - [Stomp](http://stomp.github.io/)
 - [XMPP](http://xmpp.org/)
-- 
+
 
 ## Concepts
 - [M2M](http://en.wikipedia.org/wiki/Machine_to_machine)
 
 ## Platforms
 - [ARM mbed IoT Device Platform](http://mbed.org/)
-- 
 
 ## Services
 - Azure EventHubs
 - Azure ServiceBus
 - [Google Cloud Pub/Sub](https://cloud.google.com/pubsub/docs)
-- 
 
 ## Tools
 - [Eclipse IoT Tool](http://iot.eclipse.org/)
