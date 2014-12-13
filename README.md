@@ -30,10 +30,14 @@ A curated list of awesome IoT (Internet of Things) resources, protocols, tools, 
 - [Awesome BigData](https://github.com/onurakpolat/awesome-bigdata)
 - [Awesome Analytics](https://github.com/onurakpolat/awesome-analytics)
 
-## Cloud Services
+## Cloud/Non-Cloud Services & Tools
 - Azure EventHubs
 - Azure ServiceBus
+- Azure CloudML
+- [AWS Kinesis](http://aws.amazon.com/kinesis/)
 - [Google Cloud Pub/Sub](https://cloud.google.com/pubsub/docs)
+- [Apache Kafka](http://kafka.apache.org/)
+- [Apache Storm](https://storm.apache.org/)
 
 ## Standards
 - Thread Group
@@ -41,6 +45,7 @@ A curated list of awesome IoT (Internet of Things) resources, protocols, tools, 
 ## Platforms & Tools
 - [ARM mbed IoT Device Platform](http://mbed.org/)
 - [Eclipse IoT Tool](http://iot.eclipse.org/)
+- [Windows Developer Program for IoT](http://windowsondevices.com/)
 
 ## Hardware
 - [Arduino](http://www.arduino.cc/)
